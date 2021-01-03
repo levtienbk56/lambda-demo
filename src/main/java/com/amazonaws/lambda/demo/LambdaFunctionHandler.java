@@ -12,7 +12,7 @@ public class LambdaFunctionHandler implements RequestHandler<Object, String> {
         logger.log("input:" + input);
 
         // TODO: implement your handler
-        return "Hello from Lambda! [version6]";
+        return "Hello from Lambda!";
     }
 
 }
